@@ -1,0 +1,89 @@
+
+
+.Display-1 {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 72px;
+
+}
+
+.p { 
+    font-family:-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size:16px;
+    font-weight: 400;
+}
+
+.navbar {
+background-color: #343a40;
+margin-bottom: 0px
+}
+
+.navbar-brand {
+    color: #ffff !important;   
+}
+
+.navbar-header {
+    background-color: transparent !important; 
+
+}
+
+.active {
+    background-color: #343a40;  
+}
+
+.btn-default {
+
+    background-color: #343a40 !important;
+    color: #28a745 !important;
+    border: 1px solid #28a745 !important;
+    
+}
+
+.btn-default:hover {
+
+    background-color: #28a745 !important;
+    border: 1px solid #28a745 !important;
+    color:#ffff !important;
+    
+}
+
+.btn-primary {
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 16px;
+padding-right: 16px;
+font-size: 20px;
+background-color: #007bff;
+border: 0px;
+}
+
+.btn-primary:hover {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 20px;
+    background-color: #006fe6;
+    border: 0px;
+}
+
+.btn-basic {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 15px;
+    background-color: #6c757d;
+    border: 0px;  
+    color: #ffff;
+}
+
+.btn-basic:hover {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-size: 15px;
+    background-color: #6a6d70;
+    border: 0px;  
+    color: #ffff;
+}
